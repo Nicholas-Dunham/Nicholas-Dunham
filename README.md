@@ -71,8 +71,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Nicholas-Dunham&theme=dark" alt="Layout com ultimos posts"  />
-</div>
-
-###
