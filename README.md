@@ -1,4 +1,9 @@
-<h2 align="left">Olá 👋! Me chamo Nicholas Dunham e sou um desenvolvedor focado em aprimorar meus conhecimentos!</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+###
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=800&center=true&width=435&lines=Ol%C3%A1+%F0%9F%91%8B++Me+chamo+Nicholas+Dunham;Sou+um+Desenvolvedor+Niteroiense+de+22+anos;Busco+sempre+aprimorar+meus+conhecimentos!" alt="Digitando..." /></a>
+</div>
 
 ###
 
@@ -70,4 +75,7 @@
 </div>
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 
