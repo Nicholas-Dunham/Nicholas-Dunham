@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="logo git"  />
 </div>
-<img align="right" height="150" src="https://64.media.tumblr.com/7cfa878fcda06abc9fce85e8e1defc06/tumblr_p3uzt1wCqm1tzqospo1_540.gif" alt="avatar KND" />
+<img height="150" src="https://64.media.tumblr.com/7cfa878fcda06abc9fce85e8e1defc06/tumblr_p3uzt1wCqm1tzqospo1_540.gif" alt="avatar KND" />
 </div>
 
 ###
