@@ -39,10 +39,10 @@
 </div>
 <img height="150" src="https://64.media.tumblr.com/7cfa878fcda06abc9fce85e8e1defc06/tumblr_p3uzt1wCqm1tzqospo1_540.gif" alt="avatar KND" />
 </div>
-
+<br>
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discordapp.com/users/286305026031484939" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="logo discord"  />
   </a>
